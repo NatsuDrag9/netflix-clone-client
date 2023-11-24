@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a7733de.css",
-    "main.js": "/static/js/main.169bb2b2.js",
-    "static/js/787.928d2403.chunk.js": "/static/js/787.928d2403.chunk.js",
-    "index.html": "/index.html",
-    "main.6a7733de.css.map": "/static/css/main.6a7733de.css.map",
-    "main.169bb2b2.js.map": "/static/js/main.169bb2b2.js.map",
-    "787.928d2403.chunk.js.map": "/static/js/787.928d2403.chunk.js.map"
+    "main.css": "/netflix-clone-client/static/css/main.6a7733de.css",
+    "main.js": "/netflix-clone-client/static/js/main.49d5f7e6.js",
+    "static/js/787.928d2403.chunk.js": "/netflix-clone-client/static/js/787.928d2403.chunk.js",
+    "index.html": "/netflix-clone-client/index.html",
+    "main.6a7733de.css.map": "/netflix-clone-client/static/css/main.6a7733de.css.map",
+    "main.49d5f7e6.js.map": "/netflix-clone-client/static/js/main.49d5f7e6.js.map",
+    "787.928d2403.chunk.js.map": "/netflix-clone-client/static/js/787.928d2403.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a7733de.css",
-    "static/js/main.169bb2b2.js"
+    "static/js/main.49d5f7e6.js"
   ]
 }
