@@ -25,6 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://natsudrag9.github.io/netflix-clone-client/",
   "eslintConfig": {
     "extends": [
       "react-app",
